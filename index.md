@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Mail Jail
 
-You can use the [editor on GitHub](https://github.com/IshanMandlaus/Mail_Jail_Public/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+MailJail is an app made as a practical joke to facilitate the spamming of email accounts.
 
 ```markdown
-Syntax highlighted code block
+Certain things to keep in mind when using this application.
 
-# Header 1
-## Header 2
-### Header 3
+- Do not use this app to bully someone
+- Do not use this app for illegal activity
+- Although spamming might be fun, the reciving end of it will not enjoy the experience
 
-- Bulleted
-- List
+I am not responsible for the actions of those who use this application.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IshanMandlaus/Mail_Jail_Public/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with MailJail? Contact me on mailjail@gmail.com and I'll help sort it out.
